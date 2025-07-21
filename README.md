@@ -1,0 +1,2 @@
+#projet_rique_diabete_par_analyse_clinique_model_apprentissage
+# risque_diabete_par_analyse_clinique_model_apprentissage
