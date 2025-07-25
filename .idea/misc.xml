@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.13 (project_rique_diabete_par_analyse_clinique_model_apprentissage)" />
+  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (project_rique_diabete_par_analyse_clinique_model_apprentissage)" project-jdk-type="Python SDK" />
 </project>
