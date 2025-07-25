@@ -19,11 +19,11 @@ Les variables cliniques utilisées comprennent :
 
 ---
 
-## 📁 Structure du projet
+## Structure du projet
 
 ```bash
 .
-├── data/
+├── datas/
 │   └── dataset.csv               # Jeu de données brut
 ├── notebooks/
 │   └── script.ipynb       # Notebook principal avec tout le code
@@ -35,3 +35,49 @@ Les variables cliniques utilisées comprennent :
 │   └── classification_reports/    # Matrices de confusion, scores F1, etc.
 ├── README.md                      # Présentation du projet
 └── requirements.txt               # Dépendances du projet
+
+##  Librairies utilisées
+
+* pandas, numpy
+* matplotlib, seaborn
+* scikit-learn
+* joblib
+
+## Instructions d’exécution
+
+1. Cloner le repo :
+
+```bash
+git clone https://github.com/r00tMG/sales_house_modele_supervise.git
+cd sales_house_modele_supervise
+```
+
+2. Créer un environnement virtuel et l’activer :
+
+```bash
+python -m venv .venv
+source .venv/bin/activate  
+```
+
+3. Installer les dépendances :
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Lancer le notebook principal :
+
+```bash
+jupiter-lab
+```
+
+## Résultats attendus
+
+* Intégrabilité backend/web via `model.pkl`
+
+## Suivi Agile (Jira)
+
+* Organisation en sprints
+* Epics : Data cleaning, Model Training, Classification, Packaging
+* Outils : Kanban, backlog, daily meetings
+
