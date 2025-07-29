@@ -73,7 +73,7 @@ jupiter-lab
 
 ## Résultats attendus
 
-* Intégrabilité backend/web via `model.pkl`
+* Intégrabilité backend/web via `best_model.pkl`
 
 ## Suivi Agile (Jira)
 
