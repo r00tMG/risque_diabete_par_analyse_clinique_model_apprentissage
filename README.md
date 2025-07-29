@@ -41,15 +41,15 @@ Les variables cliniques utilisées comprennent :
 * pandas, numpy
 * matplotlib, seaborn
 * scikit-learn
-* joblib
+* pickle
 
 ## Instructions d’exécution
 
 1. Cloner le repo :
 
 ```bash
-git clone https://github.com/r00tMG/sales_house_modele_supervise.git
-cd sales_house_modele_supervise
+git clone https://github.com/r00tMG/risque_diabete_par_analyse_clinique_model_apprentissage.git
+cd risque_diabete_par_analyse_clinique_model_apprentissage
 ```
 
 2. Créer un environnement virtuel et l’activer :
